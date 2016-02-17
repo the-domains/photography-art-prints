@@ -1,7 +1,7 @@
 name: Photography Art Prints
 favicon: null
-layout_spectrum: 0.8449530920479447
-typography_spectrum: 0.6512154960073531
+layout_spectrum: 0.50162
+typography_spectrum: 0.24455
 title: Photography Art Prints by John Shepherd Photography.
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.8799632340669632
-  lightness: 0.6743230661377311
-  saturation: 0.02904863189905882
-  rhythmicContrast: 0.7898218675982207
+  lightness: 0.8125
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
