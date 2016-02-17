@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photography Art Prints by John Shepherd Photography.]]></title>
         <description><![CDATA[Photography Art Prints by John Shepherd Photography.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photography-art-prints/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 14:28:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 14:28:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photography-art-prints/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ Pedn Vounder Beach Photographic Art Print.]]></title>
+            <description><![CDATA[<article><h1> Pedn Vounder Beach Photographic Art Print.</h1><p>Summer Sea Spray Photographic Art Print.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e89829f0ee36c40a528240447b01ed63bb89d8f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/photography-art-prints/pedn-vounder-beach-photographic-art-print/index.html</link>
+            <guid isPermaLink="false">3be4fde9-02dc-4000-bdd4-f562ea530c01</guid>
+            <pubDate>Wed, 17 Feb 2016 14:05:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cornish Palms Photographic Art Print.]]></title>
             <description><![CDATA[<article><h1>Cornish Palms Photographic Art Print.</h1><p>Summer Palm Trees, St. Ives, Cornwall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b008abb40d83a30825ca639c43f2f73a1e4fcaa3.jpg"></article>]]></description>
-            <link>undefinedcornish-palms-photographic-art-print/index.html</link>
+            <link>https://thegrid.ai/photography-art-prints/cornish-palms-photographic-art-print/index.html</link>
             <guid isPermaLink="false">17bfdc81-22b6-47ea-b637-24bd4b2ccb9f</guid>
             <pubDate>Wed, 17 Feb 2016 14:04:46 GMT</pubDate>
         </item>
